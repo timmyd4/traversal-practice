@@ -452,7 +452,7 @@ public class TraversalPracticeTest {
         /*
               "root"
                /   \
-         "left"   "right"
+         "left"   "rsight"
                   /
             "sub-left"
         */
